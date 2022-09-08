@@ -16,7 +16,7 @@ monthly_challenges = {
     "december": "Learn Django for atleast 20min everyday",
 }
 
-# Create your views here.
+# Create your views.
 
 
 def monthly_challenge_by_number(request, month):
